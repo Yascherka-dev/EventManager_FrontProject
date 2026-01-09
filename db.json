@@ -1,0 +1,101 @@
+{
+  "events": [
+    {
+      "id": 1,
+      "title": "Conférence React Paris",
+      "date": "2026-03-12",
+      "location": "Paris",
+      "status": "upcoming",
+      "description": "Journée dédiée aux nouveautés React, TypeScript et au tooling front.",
+      "participants": [
+        {
+          "id": 1,
+          "name": "Alice Martin",
+          "email": "alice@example.com"
+        },
+        {
+          "id": 2,
+          "name": "Yanis Dupont",
+          "email": "yanis@example.com"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Workshop UI/UX",
+      "date": "2026-01-15",
+      "location": "Lyon",
+      "status": "ongoing",
+      "description": "Atelier pratique pour améliorer les maquettes et les handoffs dev/design.",
+      "participants": [
+        {
+          "id": 1,
+          "name": "Camille Laurent",
+          "email": "camille@example.com"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "title": "Meetup TypeScript",
+      "date": "2025-12-05",
+      "location": "Nantes",
+      "status": "completed",
+      "description": "Retour d'expérience sur le typage strict et l'outillage TS dans les équipes.",
+      "participants": []
+    },
+    {
+      "id": 4,
+      "title": "Hackathon Étudiants",
+      "date": "2026-02-02",
+      "location": "Remote",
+      "status": "upcoming",
+      "description": "48h pour prototyper une solution innovante autour de la gestion d'événements.",
+      "participants": [
+        {
+          "id": 1,
+          "name": "Nora Ben",
+          "email": "nora@example.com"
+        },
+        {
+          "id": 2,
+          "name": "Ilyes Rahmani",
+          "email": "ilyes@example.com"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "title": "Salon Tech & Co",
+      "date": "2026-04-20",
+      "location": "Marseille",
+      "status": "upcoming",
+      "description": "Rencontres professionnelles autour des solutions SaaS et du cloud.",
+      "participants": []
+    },
+    {
+      "id": 6,
+      "title": "test",
+      "date": "2027-06-09",
+      "location": "PARIS",
+      "status": "upcoming",
+      "description": "test",
+      "participants": [
+        {
+          "name": "test-user1",
+          "email": "test@mail.com",
+          "id": 1
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "title": "test 2",
+      "date": "2026-01-07",
+      "location": "PARIS",
+      "status": "ongoing",
+      "description": "test 2 ",
+      "participants": []
+    }
+  ]
+}
